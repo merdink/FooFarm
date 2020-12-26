@@ -1,0 +1,4 @@
+&eWelcome to &2Foo&4Farm
+&aNew players&f: &b/kit&3 list
+&aNews/help&f: &9https://discord.gg/84Vz5jB4
+

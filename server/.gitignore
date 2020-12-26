@@ -1,0 +1,5 @@
+config/luckperms/luckperms.conf
+config/griefprevention/GlobalPlayerData/**
+config/BiomeTweaker/output/**
+**/*.db
+
