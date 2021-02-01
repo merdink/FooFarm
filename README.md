@@ -13,6 +13,8 @@ Documents, Preparation, Configuration of FooFarm Server
 
 # FooFarm Server is back
 
+[Website for The Sever](http://foo.farm)
+
 It's a different mod pack than we used to run.   We don't use an 
 installer this time.  At some point we might apply to put the pack into a wide-distribution
 system (like CurseForge), but there's no need until the user base grows.  
