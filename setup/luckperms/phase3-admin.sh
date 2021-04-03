@@ -12,6 +12,7 @@ insert
 into luckperms_group_permissions 
 (name, permission, value, server, world, expiry, contexts)
 values
+('admin','minecraft.command.achievement',1,'global','global',0,'{}'),
 ('admin','minecraft.command.ban',1,'global','global',0,'{}'),
 ('admin','minecraft.command.ban-ip',1,'global','global',0,'{}'),
 ('admin','minecraft.command.banlist',1,'global','global',0,'{}'),
