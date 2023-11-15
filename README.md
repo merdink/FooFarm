@@ -24,35 +24,64 @@ not an excessive number of mods.  It should not be a terrible
 burden on your system.
 
 
-The mod list:
+The mod list for 1.3.3:
 
-* AppleCore
+* AgriCraft
+* Animus
+* AppleSkin
 * Baubles
-* BiomeTweaker
 * BiomesOPlenty
+* BiomeTweaker
 * BloodArsenal
 * BloodMagic
+* Botania
+* Buildcraft
+* Career Bees
 * Chisel
+* Chisels & Bits
+* Clay Bucket
+* CoFH World
+* Cooking for Blockheads
 * CoralReef
 * CraftingTweaks
-* EconomyLite
+* CraftTweaker2/ModTweaker
+* Deadly World
+* Defiled Lands
+* Dropt
+* Fluid Drawers
+* FoamFix
+* Forestry
+* FTB Quests
+* GenDustry
 * HungerOverhaul
-* MCTSmelteryIO
+* Inventory Tweaks
+* Iron Chest
+* JourneyMap
+* Just Enough Items
+* Light Level Overlay Reloaded
 * MagicBees
-* Mantle
+* MCTSmelteryIO
+* Mouse Tweaks
 * MysticalAgradditions
 * MysticalAgriculture
-* Reliquary
-* TConstruct
-* Thaumcraft
-* Bloodtinker
-* Buildcraft
-* Deadly World
-* DefiledLands
-* Forestry
 * Natura
-* Pyrotech
+* Open Blocks
+* Pam's BrewCraft/Cookables/Get all the Seeds/HarvestCraft
+* Player Plates
+* Reliquary
+* The Spice of Life
+* Storage Drawers
+* Thaumcraft
+* Thermal Dynamics
+* Thermal Foundation
+* Tinkering with Blood Magic
+* Tinkers Construct
+* Tinkers Extras
+* Tool Progression
 * Twilight Forest
+* Waila
+* Watercan
+* What Agricraft Stats Am I Looking At
 
 
 ### Administrative Mods/Plugins
